@@ -1,5 +1,5 @@
 ﻿# [SQLite3](https://github.com/OS-Q/D119)
-[![sites](OS-Q/qitas.png)](http://www.OS-Q.com)
+[![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
 #### 归属数据存储：[W17](https://github.com/OS-Q/W17)
 #### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
 
@@ -7,9 +7,9 @@
 
 ### [库描述](https://github.com/OS-Q/D119/wiki) 
 
-[SQLite3](https://github.com/OS-Q/D119)基于arduino平台构建的功能库，用于存储数据
+[SQLite3](https://github.com/OS-Q/D119)基于arduino平台构建的功能库，用于SQLite3存储数据
 
-### [库资源](https://github.com/OS-Q/D119) 
+### [库资源](https://github.com/OS-Q/D119)
 
 * [文档](docs/)
 * [资源](src/)
